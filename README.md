@@ -33,10 +33,10 @@ or road gradient. Simple averages are not sufficient, since trucks may experienc
 
 🛠 **4. Tech Stack**
 
-Apache Spark (PySpark) – core engine for distributed processing of high-volume telemetry, grid construction, joins, and KPI aggregation
-Pandas / NumPy – local transformations for binning logic, interpolation, and validation steps on engine map data
-Matplotlib / Plotly – visualization of engine operation heatmaps and SFC contour surfaces for validation and diagnostics
-TALPY Time-Series Framework – supporting utilities for time-series handling, feature transformation, and structured telemetry processing
-Delta Lake / Databricks Tables – persistent storage layer for engine spectra, fuel maps, and KPI outputs across pipeline stages
+- Apache Spark (PySpark) – core engine for distributed processing of high-volume telemetry, grid construction, joins, and KPI aggregation
+- Pandas / NumPy – local transformations for binning logic, interpolation, and validation steps on engine map data
+- Matplotlib / Plotly – visualization of engine operation heatmaps and SFC contour surfaces for validation and diagnostics
+- TALPY Time-Series Framework – supporting utilities for time-series handling, feature transformation, and structured telemetry processing
+- Delta Lake / Databricks Tables – persistent storage layer for engine spectra, fuel maps, and KPI outputs across pipeline stages
 
 ---
