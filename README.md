@@ -49,3 +49,37 @@ or road gradient. Simple averages are not sufficient, since trucks may experienc
 - Delta Lake / Databricks Tables – persistent storage layer for engine spectra, fuel maps, and KPI outputs across pipeline stages
 
 ---
+
+🧠 **5. Challenge Factor (CF) - Implementation and Visualizations**
+
+<table>
+  <tr>
+    <td align="center">
+      <b> Weight Spectra Progression with increasing CF </b><br><br>
+      <img src="CF_GIF.gif" width="700"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <b> Gradient Spectra Progression with increasing CF </b><br><br>
+      <img src="CF_Grad_GIF.gif" width="700"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+🧠 **6. Local Engine Map Penalty (LEMP) - Implementation and Visualizations**
+
+<table>
+  <tr>
+    <td align="center">
+      <b> Engine Spectra Progression with increasing LEMP </b><br><br>
+      <img src="LEMP_GIF.gif" width="700"/>
+    </td>
+  </tr>
+</table>
+
