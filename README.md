@@ -5,6 +5,15 @@ and powertrain configurations.
 
 This project builds a structured analytics pipeline that converts raw engine telemetry into physics-aware fleet-level KPIs. The final outputs support downstream ML, xAI and fleet performance analysis.
 
+<table>
+  <tr>
+    <td align="center">
+      <b></b><br>
+      <img src="KPI_GIF.gif" width="700"/>
+    </td>
+  </tr>
+</table>
+
 ---
 🧩 **2. Challenge**
 
